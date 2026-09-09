@@ -17,3 +17,4 @@ Certificaciones y Cursos:
 Informacion septiembre 2026
 Cambio desde Visual studio Code 
 Cambio correcto 
+Listo
