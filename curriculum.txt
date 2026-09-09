@@ -14,4 +14,5 @@ Certificaciones y Cursos:
 - Administracion de Servidores Linux & Docker
 - Seguridad Defensiva y Gestion de SIEM
 ========================================
-informacion 2028
+Informacion septiembre 2026
+Cambio desde Visual studio Code
