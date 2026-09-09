@@ -15,4 +15,5 @@ Certificaciones y Cursos:
 - Seguridad Defensiva y Gestion de SIEM
 ========================================
 Informacion septiembre 2026
-Cambio desde Visual studio Code
+Cambio desde Visual studio Code 
+Cambio correcto 
