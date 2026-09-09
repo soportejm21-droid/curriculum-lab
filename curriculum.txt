@@ -1,0 +1,11 @@
+========================================
+CURRICULUM VITAE
+========================================
+Nombre: Juan Carlos Miranda Torres
+Profesion: Ingeniero de Sistemas
+Especialidad: Seguridad de la Informacion y Ciberseguridad
+========================================
+Experiencia:
+- Oficial de Seguridad de la Informacion
+- Administracion de Servidores y Redes
+========================================
