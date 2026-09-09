@@ -9,3 +9,8 @@ Experiencia:
 - Oficial de Seguridad de la Informacion
 - Administracion de Servidores y Redes
 ========================================
+Certificaciones y Cursos:
+- ISO/IEC 27001 Auditor Interno / Implementador
+- Administracion de Servidores Linux & Docker
+- Seguridad Defensiva y Gestion de SIEM
+========================================
